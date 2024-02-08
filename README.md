@@ -4,7 +4,7 @@
 
 Создать http сервер, который будет запускаться по адресу `127.0.0.1:3003`.
 
-Установить пакет [nodemon](https://www.npmjnpm i nodemons.com/package/nodemon), настроить его запуск.
+Установить пакет [nodemon](https://www.npmjs.com/package/nodemon), настроить его запуск.
 
 Написать обработчик входящего запроса:
 
